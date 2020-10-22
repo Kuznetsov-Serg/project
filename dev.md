@@ -1,2 +1,1 @@
-Hello for clone
-changed on server
+Super new content 123
